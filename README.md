@@ -1,9 +1,9 @@
-<h1 align="center">Hey ✌️, I'm David</h1>
-<h3 align="center">A curious student from India</h3>
+<h1 align="center">Hey there ✌️, I'm David</h1>
+<h3 align="center">A curious student from Hannover, Germany</h3>
 
 - 🔭 I’m currently working on **my master's program in production at logistics at** [Uni Hannover](https://www.maschinenbau.uni-hannover.de/en/study/range-of-courses-offered-by-the-faculty/production-and-logistics-m-sc)
 
-- 🌱 I’m currently learning **Algorithms, docker, rust**
+- 🌱 I’m currently learning **Algorithms, docker, kubernetes**
 
 - 💬 Ask me about **Python, dashboards, industrial automation**
 
