@@ -1,15 +1,9 @@
 <h1 align="center">Hey there ✌️, I'm David</h1>
 <h3 align="center">A curious student from Hannover, Germany</h3>
 
-- 🔭 I’m currently working on **my master's program in production at logistics at** [Uni Hannover](https://www.maschinenbau.uni-hannover.de/en/study/range-of-courses-offered-by-the-faculty/production-and-logistics-m-sc)
+- 🔭 I’m currently working on **my master's program in Production and Logistics at** [Uni Hannover](https://www.maschinenbau.uni-hannover.de/en/study/range-of-courses-offered-by-the-faculty/production-and-logistics-m-sc)
 
-- 🌱 I’m currently learning **Algorithms, docker, kubernetes**
-
-- 💬 Ask me about **Python, dashboards, industrial automation**
-
-- 📫 How to reach me **david@savidini.de**
-
-- 📄 Know about my experiences [wndff.de](wndff.de)
+- 💬 Ask me about **python, process dashboards or industrial automation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
