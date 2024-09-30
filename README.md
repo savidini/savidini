@@ -1,7 +1,6 @@
 <h1 align="center">Hey there ✌️, I'm David</h1>
 
-- 🔭 I am finishing my **master's degree in Production and Logistics** at [Uni Hannover](https://www.maschinenbau.uni-hannover.de/en/study/range-of-courses-offered-by-the-faculty/production-and-logistics-m-sc)
-- 🎓 Currently I am writing my **master thesis** at the [Institute of Assembly Technology and Robotics](https://match.uni-hannover.de) on the topic of _6D Pose Estimation for Manufaturer Indepentend Automation in the context of Human-Robot Collaboration_
+- 🔭 I just finished my **master's degree in Production and Logistics** at [Uni Hannover](https://www.maschinenbau.uni-hannover.de/en/study/range-of-courses-offered-by-the-faculty/production-and-logistics-m-sc)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
